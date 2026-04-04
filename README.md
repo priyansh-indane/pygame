@@ -17,4 +17,4 @@ A classic Snake game built with Python and Pygame.
 - Pygame library
 
 Install Pygame:
-pip install pygame
+pip install pygame.
