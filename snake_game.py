@@ -1,13 +1,13 @@
-#library imports
+#library imports.
 import pygame
 import time
 import random
 import os
 
-# speed
+# define speed.
 snake_speed=20
 
-#window-size
+#window-size.
 window_x=750
 window_y=450
 
