@@ -2,7 +2,6 @@
 import pygame
 import time
 import random
-import os
 
 # define speed.
 snake_speed=20
