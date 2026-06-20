@@ -7,7 +7,7 @@ import os
 # define speed.
 snake_speed=20
 
-#window-size.
+#defining window size.
 window_x=750
 window_y=450
 
@@ -190,6 +190,8 @@ while True:
     pygame.display.update()
 
     # Frame Per Second /Refresh Rate
-    fps.tick(snake_speed)     
+    fps.tick(snake_speed)
+
+##complete
 
 
