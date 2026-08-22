@@ -68,6 +68,7 @@ change_to = direction
 
 score=0
 
+#score logic
 def show_score(choice,color,fruit,size):
     score_font = pygame.font.SysFont(fruit, size)
     score_surface = score_font.render('Score : ' + str(score), True, color)
